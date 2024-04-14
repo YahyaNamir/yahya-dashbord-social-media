@@ -1,7 +1,7 @@
 import React from 'react'
 import '../styles/header.css'
 import './Switch.js'
-import Switch from './Switch.js'
+// import Switch from './Switch.js'
 
 function Header({children}) {
     return (
